@@ -1,5 +1,5 @@
-# JPA
+# MySQL
 
-1. JPA 기본
-2. JPA 심화
-3. 실습내용 정리
+1. MySQL 기본
+2. MySQL 심화
+3. Java 적용내용 정리
